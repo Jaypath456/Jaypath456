@@ -106,8 +106,8 @@ pointer validation.
 ### `$ certs --awards`
 
 - 🏅 **[AWS Cloud Practitioner](https://www.credly.com/badges/6a3649a7-3e17-487b-bff4-b27c6b69ff62/public_url)** — Amazon Web Services (2024)
-- 📄 **Research Publication** — "Music Genre Classification", IJRAR Vol. 10, Issue 2 (97.68% accuracy, CatBoost + KNN)
-- 🎓 **Certificate of Appreciation** — University at Buffalo, GitHub workshop event management
+- 📄 **[Research Publication](https://ijrar.org/papers/IJRAR23B2524.pdf)** — "Music Genre Classification", IJRAR Vol. 10, Issue 2 (97.68% accuracy, CatBoost + KNN)
+- 🎓 **[Certificate of Appreciation](https://drive.google.com/file/d/15yVN_8Dbgkt-B_pCi7V1fGcuibhWLiNA/view?usp=sharing)** — University at Buffalo, GitHub workshop event management
 
 <br/>
 
