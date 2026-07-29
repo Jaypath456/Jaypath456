@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=MS+CS+%40+University+at+Buffalo;Backend+Systems+%2B+Machine+Learning;Open+to+full-time+roles&font=Fira+Code&center=true&width=480&height=35&color=64FFDA&vCenter=true&size=15&background=00000000" />
 
-<a href="https://www.linkedin.com/in/jaypathare3/"><img src="https://img.shields.io/badge/-LinkedIn-0a1326?style=flat-square&logo=linkedin&logoColor=64FFDA"/></a>&nbsp;&nbsp;
-<a href="mailto:jaypathare123@gmail.com"><img src="https://img.shields.io/badge/-Email-0a1326?style=flat-square&logo=gmail&logoColor=64FFDA"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jaypathare3/"><img src="https://img.shields.io/badge/-LinkedIn-0a1326?style=flat-square&logo=linkedin&logoColor=64FFDA"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:jaypathare123@gmail.com"><img src="https://img.shields.io/badge/-Email-0a1326?style=flat-square&logo=gmail&logoColor=64FFDA"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://jay-portfolio-black-eight.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0a1326?style=flat-square&logo=vercel&logoColor=64FFDA"/></a>
 
 </div>
@@ -36,39 +36,15 @@ healthcare platforms managing 10,000+ patient records, and I hold an
 
 ### `$ tech --stack`
 
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/-Python-0a1326?style=for-the-badge&logo=python&logoColor=64FFDA)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0a1326?style=for-the-badge&logo=javascript&logoColor=64FFDA)
-![SQL](https://img.shields.io/badge/-SQL-0a1326?style=for-the-badge&logo=postgresql&logoColor=64FFDA)
-![C](https://img.shields.io/badge/-C-0a1326?style=for-the-badge&logo=c&logoColor=64FFDA)
+**Languages** &nbsp; `Python` `JavaScript` `SQL` `C`
 
-**Backend & Systems**
-<br/>
-![Django](https://img.shields.io/badge/-Django-0a1326?style=for-the-badge&logo=django&logoColor=64FFDA)
-![REST API](https://img.shields.io/badge/-REST%20API-0a1326?style=for-the-badge&logo=fastapi&logoColor=64FFDA)
-![Node.js](https://img.shields.io/badge/-Node.js-0a1326?style=for-the-badge&logo=node.js&logoColor=64FFDA)
-![WebSockets](https://img.shields.io/badge/-WebSockets-0a1326?style=for-the-badge&logo=socketdotio&logoColor=64FFDA)
+**Backend & Systems** &nbsp; `Django` `REST API` `Node.js` `WebSockets`
 
-**ML & AI**
-<br/>
-![PyTorch](https://img.shields.io/badge/-PyTorch-0a1326?style=for-the-badge&logo=pytorch&logoColor=64FFDA)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-0a1326?style=for-the-badge&logo=tensorflow&logoColor=64FFDA)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-0a1326?style=for-the-badge&logo=scikitlearn&logoColor=64FFDA)
-![LLMs](https://img.shields.io/badge/-LLMs-0a1326?style=for-the-badge&logo=openai&logoColor=64FFDA)
+**ML & AI** &nbsp; `PyTorch` `TensorFlow` `scikit-learn` `LLMs`
 
-**Cloud & DevOps**
-<br/>
-![AWS](https://img.shields.io/badge/-AWS-0a1326?style=for-the-badge&logo=amazonaws&logoColor=64FFDA)
-![Docker](https://img.shields.io/badge/-Docker-0a1326?style=for-the-badge&logo=docker&logoColor=64FFDA)
-![Git](https://img.shields.io/badge/-Git-0a1326?style=for-the-badge&logo=git&logoColor=64FFDA)
-![Linux](https://img.shields.io/badge/-Linux-0a1326?style=for-the-badge&logo=linux&logoColor=64FFDA)
+**Cloud & DevOps** &nbsp; `AWS` `Docker` `Git` `Linux`
 
-**Databases**
-<br/>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a1326?style=for-the-badge&logo=postgresql&logoColor=64FFDA)
-![MySQL](https://img.shields.io/badge/-MySQL-0a1326?style=for-the-badge&logo=mysql&logoColor=64FFDA)
-![Redis](https://img.shields.io/badge/-Redis-0a1326?style=for-the-badge&logo=redis&logoColor=64FFDA)
+**Databases** &nbsp; `PostgreSQL` `MySQL` `Redis`
 
 <br/>
 
@@ -152,8 +128,8 @@ pointer validation.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jaypathare3/"><img src="https://img.shields.io/badge/-LinkedIn-0a1326?style=for-the-badge&logo=linkedin&logoColor=64FFDA"/></a>&nbsp;&nbsp;
-<a href="mailto:jaypathare123@gmail.com"><img src="https://img.shields.io/badge/-Email-0a1326?style=for-the-badge&logo=gmail&logoColor=64FFDA"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jaypathare3/"><img src="https://img.shields.io/badge/-LinkedIn-0a1326?style=for-the-badge&logo=linkedin&logoColor=64FFDA"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:jaypathare123@gmail.com"><img src="https://img.shields.io/badge/-Email-0a1326?style=for-the-badge&logo=gmail&logoColor=64FFDA"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://jay-portfolio-black-eight.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0a1326?style=for-the-badge&logo=vercel&logoColor=64FFDA"/></a>
 
 <br/><br/>
