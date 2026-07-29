@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=MS+CS+%40+University+at+Buffalo;Backend+Systems+%2B+Machine+Learning;Open+to+full-time+roles&font=Fira+Code&center=true&width=480&height=35&color=64FFDA&vCenter=true&size=15&background=00000000" />
 
 <a href="https://www.linkedin.com/in/jaypathare3/"><img src="https://img.shields.io/badge/-LinkedIn-0a1326?style=flat-square&logo=linkedin&logoColor=64FFDA"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:jaypathare123@gmail.com"><img src="https://img.shields.io/badge/-Email-0a1326?style=flat-square&logo=gmail&logoColor=64FFDA"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jaypathare123@gmail.com"><img src="https://img.shields.io/badge/-Email-0a1326?style=flat-square&logo=gmail&logoColor=64FFDA"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://jay-portfolio-black-eight.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0a1326?style=flat-square&logo=vercel&logoColor=64FFDA"/></a>
 
 </div>
@@ -126,7 +126,7 @@ pointer validation.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jaypathare3/"><img src="https://img.shields.io/badge/-LinkedIn-0a1326?style=for-the-badge&logo=linkedin&logoColor=64FFDA"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:jaypathare123@gmail.com"><img src="https://img.shields.io/badge/-Email-0a1326?style=for-the-badge&logo=gmail&logoColor=64FFDA"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jaypathare123@gmail.com"><img src="https://img.shields.io/badge/-Email-0a1326?style=for-the-badge&logo=gmail&logoColor=64FFDA"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://jay-portfolio-black-eight.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0a1326?style=for-the-badge&logo=vercel&logoColor=64FFDA"/></a>
 
 <br/><br/>
