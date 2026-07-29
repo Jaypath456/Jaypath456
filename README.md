@@ -38,16 +38,15 @@ healthcare platforms managing 10,000+ patient records, and I hold an
 
 **Languages** &nbsp; `Python` `JavaScript` `SQL` `C`
 
-**Backend & Systems** &nbsp; `Django` `REST API` `Node.js` `WebSockets`
+**Backend & Frameworks** &nbsp; `Django` `Node.js` `ReactJS` `WebRTC` `REST API`
 
-**ML & AI** &nbsp; `PyTorch` `TensorFlow` `scikit-learn` `LLMs`
+**Data & Analytics** &nbsp; `Pandas` `NumPy` `PyTorch` `TensorFlow` `scikit-learn` `LLMs`
 
-**Cloud & DevOps** &nbsp; `AWS` `Docker` `Git` `Linux`
+**Cloud & DevOps** &nbsp; `AWS (EC2, RDS, VPC)` `Docker` `Git` `Linux`
 
-**Databases** &nbsp; `PostgreSQL` `MySQL` `Redis`
+**Databases & IoT** &nbsp; `PostgreSQL` `MySQL` `Redis` `IoT Pipelines`
 
 <br/>
-
 ### `$ ls projects/ --featured`
 
 <table>
