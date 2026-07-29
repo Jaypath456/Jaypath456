@@ -115,19 +115,7 @@ pointer validation.
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://github-readme-stats.vercel.app/api?username=Jaypath456&show_icons=true&theme=dark&bg_color=0a1326&title_color=64FFDA&icon_color=64FFDA&text_color=94a3b8&border_color=1e293b&hide_border=true&count_private=true" width="100%"/>
-</td>
-<td align="center" width="33%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaypath456&theme=dark&background=0a1326&stroke=1e293b&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=475569&hide_border=true" width="100%"/>
-</td>
-<td align="center" width="33%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaypath456&layout=compact&theme=dark&bg_color=0a1326&title_color=64FFDA&text_color=94a3b8&border_color=1e293b&hide_border=true" width="100%"/>
-</td>
-</tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaypath456&theme=dark&background=0a1326&stroke=1e293b&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=475569&hide_border=true" width="55%"/>
 
 </div>
 
