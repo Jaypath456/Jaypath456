@@ -45,6 +45,7 @@ healthcare platforms managing 10,000+ patient records, and I hold an
 **Databases & IoT** &nbsp; `PostgreSQL` `MySQL` `Redis` `IoT Pipelines`
 
 <br/>
+
 ### `$ ls projects/ --featured`
 
 <table>
@@ -106,17 +107,6 @@ pointer validation.
 - 📄 **[Research Publication](https://ijrar.org/papers/IJRAR23B2524.pdf)** — "Music Genre Classification", IJRAR Vol. 10, Issue 2 (97.68% accuracy, CatBoost + KNN)
 - 🎓 **[Certificate of Appreciation](https://drive.google.com/file/d/15yVN_8Dbgkt-B_pCi7V1fGcuibhWLiNA/view?usp=sharing)** — University at Buffalo, GitHub workshop event management
 
-<br/>
-
-### `$ stats --github`
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaypath456&theme=dark&background=0a1326&stroke=1e293b&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=475569&hide_border=true&_cb=1"/>
-
-
-</div>
-
-<br/>
 
 ### `$ connect --with jay`
 
