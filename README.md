@@ -111,7 +111,6 @@ pointer validation.
 ### `$ stats --github`
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaypath456&theme=dark&background=0a1326&stroke=1e293b&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=475569&hide_border=true" width="55%"/>
 
 </div>
