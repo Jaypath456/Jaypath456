@@ -14,12 +14,10 @@
 
 ### `$ about.md`
 
-```
-> whoami        Jay Niketan Pathare, Buffalo NY
-> role          Software Engineer — Backend Systems + Applied ML
-> education     MS Computer Science @ University at Buffalo (3.85 GPA)
-> status        Open to full-time roles · F-1 OPT eligible Dec 2026
-```
+> **whoami** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jay Niketan Pathare, Buffalo NY  
+> **role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Software Engineer — Backend Systems + Applied ML  
+> **education** &nbsp;&nbsp;&nbsp;&nbsp; MS Computer Science @ University at Buffalo (3.85 GPA)  
+> **status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to full-time roles · F-1 OPT eligible Dec 2026  
 
 I'm a software engineer specializing in backend systems and machine learning.
 My work turns complex data into scalable architecture — whether that's
